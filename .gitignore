@@ -1,0 +1,14 @@
+# Zed extension build artifacts
+*.wasm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node modules (if any)
+node_modules/
+grammars/freemarker/*

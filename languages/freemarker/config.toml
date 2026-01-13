@@ -1,0 +1,17 @@
+name = "Freemarker"
+grammar = "freemarker"
+path_suffixes = ["ftl"]
+line_comments = ["<#-- ", " -->"]
+block_comment = ["<#--", "-->"]
+
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = false },
+    { start = "\"", end = "\"", close = true, newline = false },
+    { start = "'", end = "'", close = true, newline = false },
+    { start = "<", end = ">", close = true, newline = false },
+]
+
+# Enable HTML syntax highlighting injection
+injection_regex = "html"
