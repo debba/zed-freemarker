@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/debba/zed-freemarker)
-[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/WgsVw69F)
+[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YrZPHAwMSG)
 
 Full-featured syntax highlighting and language support for Apache Freemarker Template Language (FTL) files in Zed editor, powered by a custom tree-sitter grammar.
 
@@ -18,7 +18,7 @@ Full-featured syntax highlighting and language support for Apache Freemarker Tem
 - [Credits](#credits)
 - [License](#license)
 
-**Discord** - [Join our discord server](https://discord.gg/WgsVw69F) and chat with the maintainers.
+**Discord** - [Join our discord server](https://discord.gg/YrZPHAwMSG) and chat with the maintainers.
 
 ## Features
 
